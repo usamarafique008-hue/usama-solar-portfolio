@@ -1,0 +1,11280 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  9
+$ACADMAINTVER
+ 70
+6
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+1e+20
+ 20
+1e+20
+ 30
+1e+20
+  9
+$EXTMAX
+ 10
+-1e+20
+ 20
+-1e+20
+ 30
+-1e+20
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$ORTHOMODE
+ 70
+0
+  9
+$REGENMODE
+ 70
+1
+  9
+$FILLMODE
+ 70
+1
+  9
+$QTEXTMODE
+ 70
+0
+  9
+$MIRRTEXT
+ 70
+1
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+1
+  9
+$TEXTSIZE
+ 40
+2.5
+  9
+$TRACEWID
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+Modules
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+2.5
+  9
+$DIMEXO
+ 40
+0.625
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+1.25
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+12.0
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+0
+  9
+$DIMLIM
+ 70
+0
+  9
+$DIMTIH
+ 70
+0
+  9
+$DIMTOH
+ 70
+0
+  9
+$DIMSE1
+ 70
+0
+  9
+$DIMSE2
+ 70
+0
+  9
+$DIMTAD
+ 70
+1
+  9
+$DIMZIN
+ 70
+8
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+1
+  9
+$DIMSHO
+ 70
+1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+0
+  9
+$DIMALTD
+ 70
+3
+  9
+$DIMALTF
+ 40
+0.03937007874
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+1
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+0
+  9
+$DIMSOXD
+ 70
+0
+  9
+$DIMSAH
+ 70
+0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+ISO-25
+  9
+$DIMCLRD
+ 70
+0
+  9
+$DIMCLRE
+ 70
+0
+  9
+$DIMCLRT
+ 70
+0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.625
+  9
+$DIMJUST
+ 70
+0
+  9
+$DIMSD1
+ 70
+0
+  9
+$DIMSD2
+ 70
+0
+  9
+$DIMTOLJ
+ 70
+0
+  9
+$DIMTZIN
+ 70
+8
+  9
+$DIMALTZ
+ 70
+0
+  9
+$DIMALTTZ
+ 70
+0
+  9
+$DIMUPT
+ 70
+0
+  9
+$DIMDEC
+ 70
+2
+  9
+$DIMTDEC
+ 70
+2
+  9
+$DIMALTU
+ 70
+2
+  9
+$DIMALTTD
+ 70
+3
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+0
+  9
+$DIMADEC
+ 70
+0
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+0
+  9
+$DIMDSEP
+ 70
+44
+  9
+$DIMATFIT
+ 70
+3
+  9
+$DIMFRAC
+ 70
+0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+3
+  9
+$DIMLWD
+ 70
+-2
+  9
+$DIMLWE
+ 70
+-2
+  9
+$DIMTMOVE
+ 70
+0
+  9
+$LUNITS
+ 70
+3
+  9
+$LUPREC
+ 70
+4
+  9
+$SKETCHINC
+ 40
+1.0
+  9
+$FILLETRAD
+ 40
+10.0
+  9
+$AUNITS
+ 70
+0
+  9
+$AUPREC
+ 70
+2
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+0
+  9
+$CHAMFERA
+ 40
+0.0
+  9
+$CHAMFERB
+ 40
+0.0
+  9
+$CHAMFERC
+ 40
+0.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+0
+  9
+$TDCREATE
+ 40
+2461280.988159722
+  9
+$TDUCREATE
+ 40
+2458532.153996898
+  9
+$TDUPDATE
+ 40
+2461280.988171296
+  9
+$TDUUPDATE
+ 40
+2458532.1544311
+  9
+$TDINDWG
+ 40
+0.0
+  9
+$TDUSRTIMER
+ 40
+0.0
+  9
+$USRTIMER
+ 70
+1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+0
+  9
+$PDMODE
+ 70
+0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+0
+  9
+$SPLINETYPE
+ 70
+6
+  9
+$SPLINESEGS
+ 70
+8
+  9
+$HANDSEED
+  5
+25B
+  9
+$SURFTAB1
+ 70
+6
+  9
+$SURFTAB2
+ 70
+6
+  9
+$SURFTYPE
+ 70
+6
+  9
+$SURFU
+ 70
+6
+  9
+$SURFV
+ 70
+6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+0
+  9
+$USERI2
+ 70
+0
+  9
+$USERI3
+ 70
+0
+  9
+$USERI4
+ 70
+0
+  9
+$USERI5
+ 70
+0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+1
+  9
+$SHADEDGE
+ 70
+3
+  9
+$SHADEDIF
+ 70
+70
+  9
+$TILEMODE
+ 70
+1
+  9
+$MAXACTVP
+ 70
+64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+0
+  9
+$PEXTMIN
+ 10
+1e+20
+ 20
+1e+20
+ 30
+1e+20
+  9
+$PEXTMAX
+ 10
+-1e+20
+ 20
+-1e+20
+ 30
+-1e+20
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$UNITMODE
+ 70
+0
+  9
+$VISRETAIN
+ 70
+1
+  9
+$PLINEGEN
+ 70
+0
+  9
+$PSLTSCALE
+ 70
+1
+  9
+$TREEDEPTH
+ 70
+3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+0
+  9
+$CMLSCALE
+ 40
+20.0
+  9
+$PROXYGRAPHICS
+ 70
+1
+  9
+$MEASUREMENT
+ 70
+0
+  9
+$CELWEIGHT
+370
+-1
+  9
+$ENDCAPS
+280
+0
+  9
+$JOINSTYLE
+280
+0
+  9
+$LWDISPLAY
+290
+0
+  9
+$INSUNITS
+ 70
+1
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+1
+  9
+$CEPSNTYPE
+380
+0
+  9
+$PSTYLEMODE
+290
+1
+  9
+$FINGERPRINTGUID
+  2
+{D2D945D4-AC5F-4D05-9995-6D9210CE8059}
+  9
+$VERSIONGUID
+  2
+{BD657AC5-9092-4806-9EEB-6C29D3F9A56D}
+  9
+$EXTNAMES
+290
+1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+ObjectDBX Classes
+ 90
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+SUN
+  2
+AcDbSun
+  3
+SCENEOE
+ 90
+1153
+280
+0
+281
+0
+  0
+CLASS
+  1
+VISUALSTYLE
+  2
+AcDbVisualStyle
+  3
+ObjectDBX Classes
+ 90
+4095
+280
+0
+281
+0
+  0
+CLASS
+  1
+MATERIAL
+  2
+AcDbMaterial
+  3
+ObjectDBX Classes
+ 90
+1153
+280
+0
+281
+0
+  0
+CLASS
+  1
+SCALE
+  2
+AcDbScale
+  3
+ObjectDBX Classes
+ 90
+1153
+280
+0
+281
+0
+  0
+CLASS
+  1
+TABLESTYLE
+  2
+AcDbTableStyle
+  3
+ObjectDBX Classes
+ 90
+4095
+280
+0
+281
+0
+  0
+CLASS
+  1
+MLEADERSTYLE
+  2
+AcDbMLeaderStyle
+  3
+ACDB_MLEADERSTYLE_CLASS
+ 90
+4095
+280
+0
+281
+0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+ObjectDBX Classes
+ 90
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+CELLSTYLEMAP
+  2
+AcDbCellStyleMap
+  3
+ObjectDBX Classes
+ 90
+1152
+280
+0
+281
+0
+  0
+CLASS
+  1
+MENTALRAYRENDERSETTINGS
+  2
+AcDbMentalRayRenderSettings
+  3
+SCENEOE
+ 90
+1024
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBDETAILVIEWSTYLE
+  2
+AcDbDetailViewStyle
+  3
+ObjectDBX Classes
+ 90
+1025
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBSECTIONVIEWSTYLE
+  2
+AcDbSectionViewStyle
+  3
+ObjectDBX Classes
+ 90
+1025
+280
+0
+281
+0
+  0
+CLASS
+  1
+RASTERVARIABLES
+  2
+AcDbRasterVariables
+  3
+ISM
+ 90
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+ObjectDBX Classes
+ 90
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+ObjectDBX Classes
+ 90
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+IMAGE
+  2
+AcDbRasterImage
+  3
+ISM
+ 90
+2175
+280
+0
+281
+1
+  0
+CLASS
+  1
+IMAGEDEF
+  2
+AcDbRasterImageDef
+  3
+ISM
+ 90
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+IMAGEDEF_REACTOR
+  2
+AcDbRasterImageDefReactor
+  3
+ISM
+ 90
+1
+280
+0
+281
+0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+1
+  0
+VPORT
+  5
+23
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+0.0
+ 22
+0.0
+ 13
+0.0
+ 23
+0.0
+ 14
+0.5
+ 24
+0.5
+ 15
+0.5
+ 25
+0.5
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+1000.0
+ 41
+1.34
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+0
+ 72
+1000
+ 73
+1
+ 74
+3
+ 75
+0
+ 76
+0
+ 77
+0
+ 78
+0
+281
+0
+ 65
+0
+146
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+2
+330
+0
+100
+AcDbSymbolTable
+ 70
+4
+  0
+LTYPE
+  5
+24
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+0
+  3
+
+ 72
+65
+ 73
+0
+ 40
+0.0
+  0
+LTYPE
+  5
+25
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+0
+  3
+
+ 72
+65
+ 73
+0
+ 40
+0.0
+  0
+LTYPE
+  5
+26
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+0
+  3
+
+ 72
+65
+ 73
+0
+ 40
+0.0
+  0
+LTYPE
+  5
+30
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHED
+ 70
+0
+  3
+Dashed __ __ __ __ __ __ __ __ __
+ 72
+65
+ 73
+2
+ 40
+0.75
+ 49
+0.5
+ 74
+0
+ 49
+-0.25
+ 74
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+6
+  0
+LAYER
+  5
+27
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+0
+ 62
+7
+  6
+Continuous
+370
+-3
+390
+13
+  0
+LAYER
+  5
+28
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Defpoints
+ 70
+0
+ 62
+7
+  6
+Continuous
+290
+0
+370
+-3
+390
+13
+  0
+LAYER
+  5
+37
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Modules
+ 70
+0
+ 62
+160
+  6
+Continuous
+370
+-3
+390
+13
+  0
+LAYER
+  5
+226
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Field_Segments
+ 70
+0
+ 62
+142
+  6
+Continuous
+370
+-3
+390
+13
+  0
+LAYER
+  5
+227
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Field_Segment_Setback
+ 70
+0
+ 62
+21
+  6
+DASHED
+370
+-3
+390
+13
+  0
+LAYER
+  5
+257
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Keepouts
+ 70
+0
+ 62
+20
+  6
+Continuous
+370
+-3
+390
+13
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+1
+  0
+STYLE
+  5
+29
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+txt
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+4
+  0
+APPID
+  5
+2A
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+0
+  0
+APPID
+  5
+2F
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+HelioScope
+ 70
+0
+  0
+APPID
+  5
+258
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+HATCHBACKGROUNDCOLOR
+ 70
+0
+  0
+APPID
+  5
+259
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+EZDXF
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+4
+330
+0
+100
+AcDbSymbolTable
+ 70
+1
+100
+AcDbDimStyleTable
+  0
+DIMSTYLE
+105
+2B
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+0
+  3
+
+  4
+
+ 40
+1.0
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+140
+2.5
+141
+2.5
+142
+0.0
+143
+0.03937007874
+144
+1.0
+145
+0.0
+146
+1.0
+147
+0.625
+148
+0.0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+8
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+44
+279
+0
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+0
+289
+3
+371
+-2
+372
+-2
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+4
+  0
+BLOCK_RECORD
+  5
+17
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+1A
+  0
+BLOCK_RECORD
+  5
+1B
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+1E
+  0
+BLOCK_RECORD
+  5
+38
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+fs_54506388_full
+340
+0
+  0
+BLOCK_RECORD
+  5
+3B
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+module_characterization_114541_10.0deg_landscape
+340
+0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+18
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+19
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1C
+330
+1B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+1D
+330
+1B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+39
+330
+38
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+fs_54506388_full
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+fs_54506388_full
+  1
+
+  0
+INSERT
+  5
+44
+330
+38
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockReference
+  2
+module_characterization_114541_10.0deg_landscape
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+ENDBLK
+  5
+3A
+330
+38
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+3C
+330
+3B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+module_characterization_114541_10.0deg_landscape
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+module_characterization_114541_10.0deg_landscape
+  1
+
+  0
+POLYLINE
+  5
+3E
+330
+3B
+100
+AcDbEntity
+  8
+0
+100
+AcDb3dPolyline
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+9
+  0
+VERTEX
+  5
+40
+330
+3B
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+32
+  0
+VERTEX
+  5
+41
+330
+3B
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+89.68503937007873
+ 20
+0.0
+ 30
+0.0
+ 70
+32
+  0
+VERTEX
+  5
+42
+330
+3B
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+89.68503937007873
+ 20
+-43.96740125652928
+ 30
+-7.752639113161376
+ 70
+32
+  0
+VERTEX
+  5
+43
+330
+3B
+100
+AcDbEntity
+  8
+0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+0.0
+ 20
+-43.96740125652928
+ 30
+-7.752639113161376
+ 70
+32
+  0
+SEQEND
+  5
+3F
+330
+3E
+100
+AcDbEntity
+  8
+0
+  0
+ENDBLK
+  5
+3D
+330
+3B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+IMAGE
+  5
+35
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbRasterImage
+ 90
+0
+ 10
+1407.1184045792706
+ 20
+-9311.755273522416
+ 30
+0.0
+ 11
+5.321907345852983
+ 21
+0.0
+ 31
+0.0
+ 12
+3.258728398228821e-16
+ 22
+5.321907345852983
+ 32
+0.0
+ 13
+2048.0
+ 23
+2048.0
+340
+34
+ 70
+3
+280
+0
+281
+50
+282
+50
+283
+0
+360
+36
+ 71
+1
+ 91
+2
+ 14
+-0.5
+ 24
+-0.5
+ 14
+2047.5
+ 24
+2047.5
+  0
+INSERT
+  5
+46
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+5786.299951430625
+ 20
+-4296.328859493453
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+48
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+5839.309622663874
+ 20
+-4223.367306397888
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+4A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+5892.319293897122
+ 20
+-4150.405753302323
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+4C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+5945.328965130373
+ 20
+-4077.444200206757
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+4E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+5998.338636363622
+ 20
+-4004.4826471111924
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+50
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6051.348307596871
+ 20
+-3931.521094015628
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+52
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6104.35797883012
+ 20
+-3858.5595409200614
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+54
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6157.367650063369
+ 20
+-3785.5979878244966
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+56
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6210.377321296618
+ 20
+-3712.636434728932
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+58
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6263.386992529869
+ 20
+-3639.674881633368
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+5A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6316.396663763117
+ 20
+-3566.7133285378013
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+5C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6369.406334996366
+ 20
+-3493.7517754422365
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+5E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6422.416006229618
+ 20
+-3420.7902223466717
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+60
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6475.425677462865
+ 20
+-3347.8286692511056
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+62
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6528.4353486961145
+ 20
+-3274.8671161555408
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+64
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6581.445019929364
+ 20
+-3201.905563059975
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+66
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6634.454691162613
+ 20
+-3128.9440099644107
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+68
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6687.464362395862
+ 20
+-3055.9824568688455
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+6A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6740.474033629112
+ 20
+-2983.02090377328
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+6C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6793.483704862362
+ 20
+-2910.0593506777154
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+6E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6877.595096154788
+ 20
+-2971.169853541363
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+70
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6824.585424921537
+ 20
+-3044.131406636926
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+72
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6771.575753688288
+ 20
+-3117.092959732491
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+74
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6718.56608245504
+ 20
+-3190.0545128280583
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+76
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6665.556411221791
+ 20
+-3263.0160659236226
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+78
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6612.546739988539
+ 20
+-3335.9776190191874
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+7A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6559.53706875529
+ 20
+-3408.9391721147526
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+7C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6506.527397522044
+ 20
+-3481.9007252103183
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+7E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6453.517726288794
+ 20
+-3554.862278305883
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+80
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6400.508055055542
+ 20
+-3627.8238314014484
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+82
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6347.498383822295
+ 20
+-3700.7853844970136
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+84
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6294.4887125890455
+ 20
+-3773.746937592578
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+86
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6241.479041355795
+ 20
+-3846.708490688143
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+88
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6188.469370122547
+ 20
+-3919.670043783709
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+8A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6135.459698889296
+ 20
+-3992.6315968792737
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+8C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6082.4500276560475
+ 20
+-4065.593149974839
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+8E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6029.4403564228005
+ 20
+-4138.554703070403
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+90
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+5976.430685189548
+ 20
+-4211.51625616597
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+92
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+5923.4210139563
+ 20
+-4284.477809261536
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+94
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+5870.41134272305
+ 20
+-4357.439362357099
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+96
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+5954.522734015475
+ 20
+-4418.549865220746
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+98
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6007.532405248724
+ 20
+-4345.588312125182
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+9A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6060.542076481974
+ 20
+-4272.626759029617
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+9C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6113.551747715224
+ 20
+-4199.665205934051
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+9E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6166.561418948472
+ 20
+-4126.703652838487
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+A0
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6219.571090181722
+ 20
+-4053.74209974292
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+A2
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6272.580761414971
+ 20
+-3980.780546647355
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+A4
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6325.59043264822
+ 20
+-3907.8189935517908
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+A6
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6378.600103881468
+ 20
+-3834.857440456226
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+A8
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6431.609775114718
+ 20
+-3761.8958873606603
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+AA
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6484.619446347968
+ 20
+-3688.934334265095
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+AC
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6537.629117581219
+ 20
+-3615.9727811695307
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+AE
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6590.638788814467
+ 20
+-3543.011228073965
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+B0
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6643.648460047715
+ 20
+-3470.0496749784
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+B2
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6696.658131280967
+ 20
+-3397.088121882834
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+B4
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6749.667802514215
+ 20
+-3324.126568787269
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+B6
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6802.677473747463
+ 20
+-3251.1650156917044
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+B8
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6855.687144980713
+ 20
+-3178.2034625961387
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+BA
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6908.696816213961
+ 20
+-3105.2419095005744
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+BC
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6961.706487447212
+ 20
+-3032.280356405009
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+BE
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7045.817878739636
+ 20
+-3093.390859268655
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+C0
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6992.808207506389
+ 20
+-3166.3524123642214
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+C2
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6939.798536273139
+ 20
+-3239.3139654597844
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+C4
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6886.788865039889
+ 20
+-3312.2755185553506
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+C6
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6833.779193806639
+ 20
+-3385.237071650916
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+C8
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6780.769522573392
+ 20
+-3458.1986247464815
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+CA
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6727.759851340141
+ 20
+-3531.1601778420463
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+CC
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6674.750180106892
+ 20
+-3604.121730937611
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+CE
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6621.740508873645
+ 20
+-3677.083284033177
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+D0
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6568.7308376403935
+ 20
+-3750.044837128742
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+D2
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6515.721166407144
+ 20
+-3823.0063902243064
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+D4
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6462.711495173895
+ 20
+-3895.967943319871
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+D6
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6409.701823940645
+ 20
+-3968.9294964154374
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+D8
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6356.692152707396
+ 20
+-4041.891049511002
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+DA
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6303.682481474148
+ 20
+-4114.8526026065665
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+DC
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6250.672810240897
+ 20
+-4187.814155702133
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+DE
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6197.663139007651
+ 20
+-4260.775708797697
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+E0
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6144.653467774399
+ 20
+-4333.737261893262
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+E2
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6091.64379654115
+ 20
+-4406.698814988828
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+E4
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6038.634125307901
+ 20
+-4479.660368084393
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+E6
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6122.7455166003265
+ 20
+-4540.770870948039
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+E8
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6175.755187833575
+ 20
+-4467.809317852474
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+EA
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6228.764859066824
+ 20
+-4394.84776475691
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+EC
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6281.774530300074
+ 20
+-4321.8862116613445
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+EE
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6334.784201533323
+ 20
+-4248.924658565779
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+F0
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6387.793872766573
+ 20
+-4175.963105470213
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+F2
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6440.803543999823
+ 20
+-4103.00155237465
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+F4
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6493.813215233071
+ 20
+-4030.0399992790835
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+F6
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6546.82288646632
+ 20
+-3957.078446183519
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+F8
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6599.8325576995685
+ 20
+-3884.1168930879544
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+FA
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6652.84222893282
+ 20
+-3811.1553399923896
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+FC
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6705.85190016607
+ 20
+-3738.193786896823
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+FE
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6758.861571399317
+ 20
+-3665.2322338012577
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+100
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6811.871242632567
+ 20
+-3592.2706807056934
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+102
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6864.880913865818
+ 20
+-3519.3091276101272
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+104
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6917.890585099067
+ 20
+-3446.3475745145624
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+106
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6970.900256332315
+ 20
+-3373.386021418997
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+108
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7023.909927565565
+ 20
+-3300.4244683234324
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+10A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7076.919598798812
+ 20
+-3227.4629152278676
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+10C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7129.929270032062
+ 20
+-3154.5013621323014
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+10E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7214.040661324487
+ 20
+-3215.611864995948
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+110
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7161.030990091239
+ 20
+-3288.573418091514
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+112
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7108.021318857989
+ 20
+-3361.534971187078
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+114
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7055.01164762474
+ 20
+-3434.496524282644
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+116
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7002.00197639149
+ 20
+-3507.45807737821
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+118
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6948.99230515824
+ 20
+-3580.419630473774
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+11A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6895.982633924992
+ 20
+-3653.38118356934
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+11C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6842.972962691743
+ 20
+-3726.3427366649044
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+11E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6789.963291458492
+ 20
+-3799.3042897604696
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+120
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6736.953620225244
+ 20
+-3872.265842856036
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+122
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6683.943948991995
+ 20
+-3945.2273959516006
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+124
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6630.934277758745
+ 20
+-4018.188949047166
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+126
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6577.9246065254965
+ 20
+-4091.1505021427292
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+128
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6524.914935292248
+ 20
+-4164.112055238296
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+12A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6471.905264058998
+ 20
+-4237.073608333862
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+12C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6418.895592825747
+ 20
+-4310.035161429425
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+12E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6365.8859215924995
+ 20
+-4382.996714524991
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+130
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6312.87625035925
+ 20
+-4455.958267620557
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+132
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6259.866579126001
+ 20
+-4528.919820716122
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+134
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6206.856907892752
+ 20
+-4601.881373811687
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+136
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6290.968299185177
+ 20
+-4662.991876675333
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+138
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6343.977970418426
+ 20
+-4590.030323579767
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+13A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6396.9876416516745
+ 20
+-4517.068770484203
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+13C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6449.997312884924
+ 20
+-4444.107217388638
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+13E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6503.006984118174
+ 20
+-4371.145664293072
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+140
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6556.016655351425
+ 20
+-4298.184111197507
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+142
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6609.0263265846725
+ 20
+-4225.222558101942
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+144
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6662.035997817922
+ 20
+-4152.261005006378
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+146
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6715.04566905117
+ 20
+-4079.2994519108124
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+148
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6768.05534028442
+ 20
+-4006.3378988152463
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+14A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6821.065011517669
+ 20
+-3933.3763457196815
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+14C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6874.074682750917
+ 20
+-3860.4147926241158
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+14E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6927.084353984169
+ 20
+-3787.453239528552
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+150
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6980.094025217417
+ 20
+-3714.4916864329866
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+152
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7033.103696450666
+ 20
+-3641.53013333742
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+154
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7086.113367683915
+ 20
+-3568.5685802418557
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+156
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7139.123038917165
+ 20
+-3495.607027146291
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+158
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7192.132710150416
+ 20
+-3422.645474050726
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+15A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7245.142381383664
+ 20
+-3349.6839209551604
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+15C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7298.152052616913
+ 20
+-3276.722367859594
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+15E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7382.263443909337
+ 20
+-3337.8328707232417
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+160
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7329.253772676089
+ 20
+-3410.7944238188074
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+162
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7276.2441014428405
+ 20
+-3483.7559769143722
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+164
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7223.234430209589
+ 20
+-3556.717530009936
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+166
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7170.22475897634
+ 20
+-3629.679083105503
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+168
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7117.215087743092
+ 20
+-3702.6406362010675
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+16A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7064.205416509841
+ 20
+-3775.602189296633
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+16C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7011.195745276595
+ 20
+-3848.5637423921985
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+16E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6958.186074043344
+ 20
+-3921.5252954877624
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+170
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6905.176402810093
+ 20
+-3994.486848583328
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+172
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6852.166731576846
+ 20
+-4067.4484016788947
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+174
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6799.157060343597
+ 20
+-4140.409954774458
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+176
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6746.147389110347
+ 20
+-4213.371507870024
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+178
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6693.1377178770945
+ 20
+-4286.333060965589
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+17A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6640.128046643848
+ 20
+-4359.294614061154
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+17C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6587.118375410599
+ 20
+-4432.256167156719
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+17E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6534.108704177349
+ 20
+-4505.217720252284
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+180
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6481.099032944101
+ 20
+-4578.179273347849
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+182
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6428.089361710851
+ 20
+-4651.140826443414
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+184
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6375.079690477602
+ 20
+-4724.102379538979
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+186
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6459.191081770026
+ 20
+-4785.212882402627
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+188
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6512.200753003277
+ 20
+-4712.2513293070615
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+18A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6565.210424236524
+ 20
+-4639.289776211496
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+18C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6618.2200954697755
+ 20
+-4566.328223115931
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+18E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6671.229766703025
+ 20
+-4493.366670020366
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+190
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6724.239437936274
+ 20
+-4420.4051169248005
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+192
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6777.249109169523
+ 20
+-4347.443563829236
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+194
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6830.258780402773
+ 20
+-4274.482010733671
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+196
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6883.26845163602
+ 20
+-4201.520457638106
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+198
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6936.278122869271
+ 20
+-4128.55890454254
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+19A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6989.28779410252
+ 20
+-4055.5973514469756
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+19C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7042.297465335769
+ 20
+-3982.6357983514094
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+19E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7095.307136569019
+ 20
+-3909.674245255845
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1A0
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7148.316807802268
+ 20
+-3836.712692160279
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1A2
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7201.326479035518
+ 20
+-3763.7511390647146
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1A4
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7254.336150268765
+ 20
+-3690.78958596915
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1A6
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7307.345821502015
+ 20
+-3617.8280328735837
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1A8
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7360.3554927352625
+ 20
+-3544.8664797780184
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1AA
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7413.365163968515
+ 20
+-3471.9049266824536
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1AC
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7466.374835201765
+ 20
+-3398.9433735868884
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1AE
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7550.48622649419
+ 20
+-3460.0538764505354
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1B0
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7497.476555260938
+ 20
+-3533.0154295461007
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1B2
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7444.46688402769
+ 20
+-3605.9769826416655
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1B4
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7391.457212794441
+ 20
+-3678.9385357372303
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1B6
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7338.4475415611905
+ 20
+-3751.9000888327964
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1B8
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7285.4378703279435
+ 20
+-3824.8616419283617
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1BA
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7232.428199094692
+ 20
+-3897.8231950239256
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1BC
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7179.418527861442
+ 20
+-3970.784748119491
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1BE
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7126.408856628195
+ 20
+-4043.7463012150565
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1C0
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7073.399185394945
+ 20
+-4116.707854310623
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1C2
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7020.389514161695
+ 20
+-4189.669407406186
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1C4
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6967.379842928445
+ 20
+-4262.630960501751
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1C6
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6914.370171695196
+ 20
+-4335.5925135973175
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1C8
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6861.360500461948
+ 20
+-4408.554066692883
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1CA
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6808.350829228697
+ 20
+-4481.515619788447
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1CC
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6755.341157995449
+ 20
+-4554.477172884013
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1CE
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6702.3314867622
+ 20
+-4627.4387259795785
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1D0
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6649.321815528951
+ 20
+-4700.400279075143
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1D2
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6596.312144295702
+ 20
+-4773.361832170708
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1D4
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6543.30247306245
+ 20
+-4846.323385266273
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1D6
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6892.462220521124
+ 20
+-4542.626122652094
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1D8
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6945.471891754374
+ 20
+-4469.664569556529
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1DA
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6998.481562987621
+ 20
+-4396.703016460963
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1DC
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7051.491234220869
+ 20
+-4323.741463365399
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1DE
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7104.5009054541215
+ 20
+-4250.779910269834
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1E0
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7157.510576687369
+ 20
+-4177.818357174268
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1E2
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7210.520247920616
+ 20
+-4104.856804078703
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1E4
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7263.529919153868
+ 20
+-4031.895250983138
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1E6
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7316.5395903871195
+ 20
+-3958.9336978875735
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1E8
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7369.5492616203655
+ 20
+-3885.972144792008
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1EA
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7422.558932853616
+ 20
+-3813.0105916964426
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1EC
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7475.568604086866
+ 20
+-3740.049038600878
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1EE
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7528.578275320114
+ 20
+-3667.087485505313
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1F0
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7581.587946553366
+ 20
+-3594.1259324097477
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1F2
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7634.597617786615
+ 20
+-3521.1643793141816
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1F4
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7718.709009079038
+ 20
+-3582.274882177828
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1F6
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7665.699337845788
+ 20
+-3655.236435273393
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1F8
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7612.689666612539
+ 20
+-3728.1979883689587
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1FA
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7559.679995379292
+ 20
+-3801.1595414645235
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1FC
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7506.670324146042
+ 20
+-3874.1210945600906
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+1FE
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7453.660652912791
+ 20
+-3947.0826476556545
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+200
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7400.650981679543
+ 20
+-4020.04420075122
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+202
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7347.641310446294
+ 20
+-4093.005753846784
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+204
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7294.631639213044
+ 20
+-4165.96730694235
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+206
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7241.621967979796
+ 20
+-4238.928860037914
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+208
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7188.612296746547
+ 20
+-4311.890413133481
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+20A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7135.602625513298
+ 20
+-4384.8519662290455
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+20C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7082.592954280047
+ 20
+-4457.813519324611
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+20E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7029.583283046799
+ 20
+-4530.775072420175
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+210
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+6976.573611813549
+ 20
+-4603.736625515742
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+212
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7060.685003105976
+ 20
+-4664.847128379389
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+214
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7113.694674339224
+ 20
+-4591.885575283823
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+216
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7166.7043455724715
+ 20
+-4518.9240221882565
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+218
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7219.714016805722
+ 20
+-4445.962469092691
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+21A
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7272.723688038971
+ 20
+-4373.000915997127
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+21C
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7325.733359272219
+ 20
+-4300.039362901561
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+21E
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7378.7430305054695
+ 20
+-4227.077809805996
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+220
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7431.752701738719
+ 20
+-4154.116256710431
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+222
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7484.762372971967
+ 20
+-4081.1547036148654
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+INSERT
+  5
+224
+330
+17
+100
+AcDbEntity
+  8
+Modules
+100
+AcDbBlockReference
+  2
+fs_54506388_full
+ 10
+7537.772044205218
+ 20
+-4008.1931505193006
+ 30
+25.752678483240114
+ 50
+54.0
+1001
+HelioScope
+1040
+1.134
+1040
+2.278
+1000
+landscape
+  0
+POLYLINE
+  5
+228
+330
+17
+100
+AcDbEntity
+  8
+Field_Segments
+100
+AcDbPolyFaceMesh
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+97
+ 71
+7
+ 72
+7
+  0
+VERTEX
+  5
+22A
+330
+17
+100
+AcDbEntity
+  8
+Field_Segments
+100
+AcDbVertex
+100
+AcDbPolyFaceMeshVertex
+ 10
+8030.6947602905475
+ 20
+-3648.160662042008
+ 30
+3.937007874015747e-05
+ 70
+192
+  0
+VERTEX
+  5
+22C
+330
+17
+100
+AcDbEntity
+  8
+Field_Segments
+100
+AcDbVertex
+100
+AcDbPolyFaceMeshVertex
+ 10
+6779.925282012243
+ 20
+-2728.825081127846
+ 30
+3.937007874015747e-05
+ 70
+192
+  0
+VERTEX
+  5
+231
+330
+17
+100
+AcDbEntity
+  8
+Field_Segments
+100
+AcDbVertex
+100
+AcDbPolyFaceMeshVertex
+ 10
+5675.5120827442925
+ 20
+-4304.257264718082
+ 30
+3.937007874015747e-05
+ 70
+192
+  0
+VERTEX
+  5
+236
+330
+17
+100
+AcDbEntity
+  8
+Field_Segments
+100
+AcDbVertex
+100
+AcDbPolyFaceMeshVertex
+ 10
+6653.432723878707
+ 20
+-4995.419221610076
+ 30
+3.937007874015747e-05
+ 70
+192
+  0
+VERTEX
+  5
+23B
+330
+17
+100
+AcDbEntity
+  8
+Field_Segments
+100
+AcDbVertex
+100
+AcDbPolyFaceMeshVertex
+ 10
+6917.899393752619
+ 20
+-4612.967939273682
+ 30
+3.937007874015747e-05
+ 70
+192
+  0
+VERTEX
+  5
+240
+330
+17
+100
+AcDbEntity
+  8
+Field_Segments
+100
+AcDbVertex
+100
+AcDbPolyFaceMeshVertex
+ 10
+7180.065652529716
+ 20
+-4816.976445133956
+ 30
+3.937007874015747e-05
+ 70
+192
+  0
+VERTEX
+  5
+245
+330
+17
+100
+AcDbEntity
+  8
+Field_Segments
+100
+AcDbVertex
+100
+AcDbPolyFaceMeshVertex
+ 10
+8037.990970721158
+ 20
+-3645.2955820039333
+ 30
+3.937007874015747e-05
+ 70
+192
+  0
+VERTEX
+  5
+22E
+330
+17
+100
+AcDbEntity
+  8
+Field_Segments
+100
+AcDbFaceRecord
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+128
+ 71
+1
+ 72
+1
+ 73
+2
+ 74
+2
+  0
+VERTEX
+  5
+233
+330
+17
+100
+AcDbEntity
+  8
+Field_Segments
+100
+AcDbFaceRecord
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+128
+ 71
+2
+ 72
+2
+ 73
+3
+ 74
+3
+  0
+VERTEX
+  5
+238
+330
+17
+100
+AcDbEntity
+  8
+Field_Segments
+100
+AcDbFaceRecord
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+128
+ 71
+3
+ 72
+3
+ 73
+4
+ 74
+4
+  0
+VERTEX
+  5
+23D
+330
+17
+100
+AcDbEntity
+  8
+Field_Segments
+100
+AcDbFaceRecord
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+128
+ 71
+4
+ 72
+4
+ 73
+5
+ 74
+5
+  0
+VERTEX
+  5
+242
+330
+17
+100
+AcDbEntity
+  8
+Field_Segments
+100
+AcDbFaceRecord
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+128
+ 71
+5
+ 72
+5
+ 73
+6
+ 74
+6
+  0
+VERTEX
+  5
+247
+330
+17
+100
+AcDbEntity
+  8
+Field_Segments
+100
+AcDbFaceRecord
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+128
+ 71
+6
+ 72
+6
+ 73
+7
+ 74
+7
+  0
+VERTEX
+  5
+24C
+330
+17
+100
+AcDbEntity
+  8
+Field_Segments
+100
+AcDbFaceRecord
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+128
+ 71
+7
+ 72
+7
+ 73
+1
+ 74
+1
+  0
+SEQEND
+  5
+229
+330
+228
+100
+AcDbEntity
+  8
+Field_Segments
+  0
+POLYLINE
+  5
+24D
+330
+17
+100
+AcDbEntity
+  8
+Field_Segment_Setback
+100
+AcDb3dPolyline
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+9
+  0
+VERTEX
+  5
+24F
+330
+17
+100
+AcDbEntity
+  8
+Field_Segment_Setback
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+6644.527559055116
+ 20
+-4945.039370078739
+ 30
+-0.03933070866141732
+ 70
+32
+  0
+VERTEX
+  5
+250
+330
+17
+100
+AcDbEntity
+  8
+Field_Segment_Setback
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+5725.590551181102
+ 20
+-4295.551181102362
+ 30
+-0.03933070866141732
+ 70
+32
+  0
+VERTEX
+  5
+251
+330
+17
+100
+AcDbEntity
+  8
+Field_Segment_Setback
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+6788.267716535432
+ 20
+-2779.645669291338
+ 30
+-0.03933070866141732
+ 70
+32
+  0
+VERTEX
+  5
+252
+330
+17
+100
+AcDbEntity
+  8
+Field_Segment_Setback
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+7983.779527559054
+ 20
+-3658.346456692913
+ 30
+-0.03933070866141732
+ 70
+32
+  0
+VERTEX
+  5
+253
+330
+17
+100
+AcDbEntity
+  8
+Field_Segment_Setback
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+7172.9133858267705
+ 20
+-4765.826771653543
+ 30
+-0.03933070866141732
+ 70
+32
+  0
+VERTEX
+  5
+254
+330
+17
+100
+AcDbEntity
+  8
+Field_Segment_Setback
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+6939.999999999999
+ 20
+-4584.566929133857
+ 30
+-0.03933070866141732
+ 70
+32
+  0
+VERTEX
+  5
+255
+330
+17
+100
+AcDbEntity
+  8
+Field_Segment_Setback
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+6907.204724409448
+ 20
+-4578.582677165354
+ 30
+-0.03933070866141732
+ 70
+32
+  0
+VERTEX
+  5
+256
+330
+17
+100
+AcDbEntity
+  8
+Field_Segment_Setback
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+6888.307086614172
+ 20
+-4592.48031496063
+ 30
+-0.03933070866141732
+ 70
+32
+  0
+SEQEND
+  5
+24E
+330
+24D
+100
+AcDbEntity
+  8
+Field_Segment_Setback
+  0
+VIEWPORT
+  5
+31
+330
+1B
+100
+AcDbEntity
+ 67
+1
+  8
+VIEWPORTS
+100
+AcDbViewport
+ 10
+6856.751526732725
+ 20
+-3862.122151368961
+ 30
+0.0
+ 40
+8037.990970721158
+ 41
+-2728.825081127846
+ 68
+2
+ 69
+3
+ 12
+0.0
+ 22
+0.0
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 45
+2266.5941404822306
+ 50
+0.0
+ 51
+0.0
+ 72
+100
+ 90
+0
+  1
+
+281
+0
+ 71
+0
+ 74
+0
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+0
+146
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+A
+330
+0
+100
+AcDbDictionary
+280
+0
+281
+1
+  3
+ACAD_COLOR
+350
+B
+  3
+ACAD_GROUP
+350
+C
+  3
+ACAD_LAYOUT
+350
+D
+  3
+ACAD_MATERIAL
+350
+E
+  3
+ACAD_MLEADERSTYLE
+350
+F
+  3
+ACAD_MLINESTYLE
+350
+10
+  3
+ACAD_PLOTSETTINGS
+350
+11
+  3
+ACAD_PLOTSTYLENAME
+350
+12
+  3
+ACAD_SCALELIST
+350
+14
+  3
+ACAD_TABLESTYLE
+350
+15
+  3
+ACAD_VISUALSTYLE
+350
+16
+  3
+EZDXF_META
+350
+2D
+  3
+ACAD_IMAGE_VARS
+350
+32
+  3
+ACAD_IMAGE_DICT
+350
+33
+  0
+DICTIONARY
+  5
+B
+330
+A
+100
+AcDbDictionary
+280
+0
+281
+1
+  0
+DICTIONARY
+  5
+C
+330
+A
+100
+AcDbDictionary
+280
+0
+281
+1
+  0
+DICTIONARY
+  5
+D
+330
+A
+100
+AcDbDictionary
+280
+0
+281
+1
+  3
+Model
+350
+1A
+  3
+Layout1
+350
+1E
+  0
+DICTIONARY
+  5
+E
+330
+A
+100
+AcDbDictionary
+280
+0
+281
+1
+  3
+ByBlock
+350
+1F
+  3
+ByLayer
+350
+20
+  3
+Global
+350
+21
+  0
+DICTIONARY
+  5
+F
+330
+A
+100
+AcDbDictionary
+280
+0
+281
+1
+  3
+Standard
+350
+2C
+  0
+DICTIONARY
+  5
+10
+330
+A
+100
+AcDbDictionary
+280
+0
+281
+1
+  3
+Standard
+350
+22
+  0
+DICTIONARY
+  5
+11
+330
+A
+100
+AcDbDictionary
+280
+0
+281
+1
+  0
+ACDBDICTIONARYWDFLT
+  5
+12
+330
+A
+100
+AcDbDictionary
+280
+0
+281
+1
+  3
+Normal
+350
+13
+100
+AcDbDictionaryWithDefault
+340
+13
+  0
+ACDBPLACEHOLDER
+  5
+13
+330
+12
+  0
+DICTIONARY
+  5
+14
+330
+A
+100
+AcDbDictionary
+280
+0
+281
+1
+  0
+DICTIONARY
+  5
+15
+330
+A
+100
+AcDbDictionary
+280
+0
+281
+1
+  0
+DICTIONARY
+  5
+16
+330
+A
+100
+AcDbDictionary
+280
+0
+281
+1
+  0
+LAYOUT
+  5
+1A
+330
+D
+100
+AcDbPlotSettings
+  1
+
+  4
+A3
+  6
+
+ 40
+7.5
+ 41
+20.0
+ 42
+7.5
+ 43
+20.0
+ 44
+420.0
+ 45
+297.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+1024
+ 72
+1
+ 73
+0
+ 74
+5
+  7
+
+ 75
+16
+ 76
+0
+ 77
+2
+ 78
+300
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+1
+ 71
+0
+ 10
+0.0
+ 20
+0.0
+ 11
+420.0
+ 21
+297.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+1e+20
+ 24
+1e+20
+ 34
+1e+20
+ 15
+-1e+20
+ 25
+-1e+20
+ 35
+-1e+20
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+1
+330
+17
+  0
+LAYOUT
+  5
+1E
+330
+D
+100
+AcDbPlotSettings
+  1
+
+  4
+A3
+  6
+
+ 40
+7.5
+ 41
+20.0
+ 42
+7.5
+ 43
+20.0
+ 44
+420.0
+ 45
+297.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+0
+ 72
+1
+ 73
+0
+ 74
+5
+  7
+
+ 75
+16
+ 76
+0
+ 77
+2
+ 78
+300
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+1
+ 71
+1
+ 10
+0.0
+ 20
+0.0
+ 11
+420.0
+ 21
+297.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+1e+20
+ 24
+1e+20
+ 34
+1e+20
+ 15
+-1e+20
+ 25
+-1e+20
+ 35
+-1e+20
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+1
+330
+1B
+  0
+MATERIAL
+  5
+1F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+100
+AcDbMaterial
+  1
+ByBlock
+  2
+
+ 70
+0
+ 40
+1.0
+ 71
+1
+ 41
+1.0
+ 91
+-1023410177
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 44
+0.5
+ 73
+0
+ 45
+1.0
+ 46
+1.0
+ 77
+1
+  4
+
+ 78
+1
+ 79
+1
+170
+1
+ 48
+1.0
+171
+1
+  6
+
+172
+1
+173
+1
+174
+1
+140
+1.0
+141
+1.0
+175
+1
+  7
+
+176
+1
+177
+1
+178
+1
+143
+1.0
+179
+1
+  8
+
+270
+1
+271
+1
+272
+1
+145
+1.0
+146
+1.0
+273
+1
+  9
+
+274
+1
+275
+1
+276
+1
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 94
+63
+  0
+MATERIAL
+  5
+20
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+100
+AcDbMaterial
+  1
+ByLayer
+  2
+
+ 70
+0
+ 40
+1.0
+ 71
+1
+ 41
+1.0
+ 91
+-1023410177
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 44
+0.5
+ 73
+0
+ 45
+1.0
+ 46
+1.0
+ 77
+1
+  4
+
+ 78
+1
+ 79
+1
+170
+1
+ 48
+1.0
+171
+1
+  6
+
+172
+1
+173
+1
+174
+1
+140
+1.0
+141
+1.0
+175
+1
+  7
+
+176
+1
+177
+1
+178
+1
+143
+1.0
+179
+1
+  8
+
+270
+1
+271
+1
+272
+1
+145
+1.0
+146
+1.0
+273
+1
+  9
+
+274
+1
+275
+1
+276
+1
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 94
+63
+  0
+MATERIAL
+  5
+21
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+100
+AcDbMaterial
+  1
+Global
+  2
+
+ 70
+0
+ 40
+1.0
+ 71
+1
+ 41
+1.0
+ 91
+-1023410177
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 44
+0.5
+ 73
+0
+ 45
+1.0
+ 46
+1.0
+ 77
+1
+  4
+
+ 78
+1
+ 79
+1
+170
+1
+ 48
+1.0
+171
+1
+  6
+
+172
+1
+173
+1
+174
+1
+140
+1.0
+141
+1.0
+175
+1
+  7
+
+176
+1
+177
+1
+178
+1
+143
+1.0
+179
+1
+  8
+
+270
+1
+271
+1
+272
+1
+145
+1.0
+146
+1.0
+273
+1
+  9
+
+274
+1
+275
+1
+276
+1
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 94
+63
+  0
+MLINESTYLE
+  5
+22
+102
+{ACAD_REACTORS
+330
+10
+102
+}
+330
+10
+100
+AcDbMlineStyle
+  2
+Standard
+ 70
+0
+  3
+
+ 62
+256
+ 51
+90.0
+ 52
+90.0
+ 71
+2
+ 49
+0.5
+ 62
+256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+256
+  6
+BYLAYER
+  0
+MLEADERSTYLE
+  5
+2C
+102
+{ACAD_REACTORS
+330
+F
+102
+}
+330
+F
+100
+AcDbMLeaderStyle
+179
+2
+170
+2
+171
+1
+172
+0
+ 90
+2
+ 40
+0.0
+ 41
+0.0
+173
+1
+ 91
+-1056964608
+ 92
+-2
+290
+1
+ 42
+2.0
+291
+1
+ 43
+8.0
+  3
+Standard
+ 44
+4.0
+300
+
+342
+29
+174
+1
+175
+1
+176
+0
+178
+1
+ 93
+-1056964608
+ 45
+4.0
+292
+0
+297
+0
+ 46
+4.0
+ 94
+-1056964608
+ 47
+1.0
+ 49
+1.0
+140
+1.0
+294
+1
+141
+0.0
+177
+0
+142
+1.0
+295
+0
+296
+0
+143
+3.75
+271
+0
+272
+9
+273
+9
+  0
+DICTIONARY
+  5
+2D
+330
+A
+100
+AcDbDictionary
+280
+1
+281
+1
+  3
+CREATED_BY_EZDXF
+350
+2E
+  3
+WRITTEN_BY_EZDXF
+350
+25A
+  0
+DICTIONARYVAR
+  5
+2E
+330
+2D
+100
+DictionaryVariables
+280
+0
+  1
+1.3.5 @ 2026-08-27T23:42:57.344620+00:00
+  0
+RASTERVARIABLES
+  5
+32
+102
+{ACAD_REACTORS
+330
+A
+102
+}
+330
+A
+100
+AcDbRasterVariables
+ 90
+0
+ 70
+0
+ 71
+1
+ 72
+3
+  0
+DICTIONARY
+  5
+33
+330
+A
+100
+AcDbDictionary
+280
+0
+281
+1
+  3
+design_10463512_baseimage.jpg
+350
+34
+  0
+IMAGEDEF
+  5
+34
+102
+{ACAD_REACTORS
+330
+33
+330
+36
+102
+}
+330
+33
+100
+AcDbRasterImageDef
+ 90
+0
+  1
+design_10463512_baseimage.jpg
+ 10
+2048.0
+ 20
+2048.0
+ 11
+0.01
+ 21
+0.01
+280
+1
+281
+0
+  0
+IMAGEDEF_REACTOR
+  5
+36
+330
+35
+100
+AcDbRasterImageDefReactor
+ 90
+2
+330
+35
+  0
+DICTIONARYVAR
+  5
+25A
+330
+2D
+100
+DictionaryVariables
+280
+0
+  1
+1.3.5 @ 2026-08-27T23:42:58.433688+00:00
+  0
+ENDSEC
+  0
+EOF
