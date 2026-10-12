@@ -1,7 +1,7 @@
 <!-- 
   COMPILE: markdown-pdf CV_Muhammad_Usama_Rafique.md -o CV_Muhammad_Usama_Rafique.pdf
   ENGINE: Headless Chromium (Puppeteer) — Supports full CSS Paged Media (@page, break-inside)
-  FONTS: Uses system stack (Calibri/DejaVu/Liberation) — Zero external deps.
+  FONTS: System stack (Calibri/DejaVu/Liberation) — Zero external deps.
   TARGET: Strict 2-page output. If 3 pages, reduce body font-size to 9pt.
 
 <style>
@@ -49,10 +49,10 @@
 </div>
 
 ## TECHNICAL AUTHORITY SUMMARY
-**3.5 Years** full lifecycle: **Design (PVsyst/HelioScope/AutoCAD) → Site Execution (Structural/DC/AC/Commissioning) → O&M Diagnostics (Thermal/I-V/Comms).**  
-**Verified Portfolio Scale: 4.5 MWp+** across Pakistan (NEPRA) & UAE (DEWA DRRG): 1.4 MWp Linear (Kohat), 990 kWp Industrial (Alfalah), 863 kWp Mall (Alfatah), 500 kWp Hybrid (Jameel), 317 kWp Factory (Printing Press), 200 kWp Mill (Rizwan), 190 kWp Mall (Crown), 140 kWp Packaging (Al-Noor), 87 kWp PEL, 902 kWp BESS Hybrid Pre-commissioning (RIU Palace), 800+ kWp & 552 kWp O&M Campaigns (Maldives Resorts).  
+**3.5 Years** full lifecycle: **Design (HelioScope/AutoCAD) → Site Execution (Structural/DC/AC/Commissioning) → O&M Diagnostics (Thermal/I-V/Comms).**  
+**Verified Portfolio Scale: 4.5 MWp+** across Pakistan (NEPRA) & UAE (DEWA DRRG): 1.4 MWp Linear + 300 kW/600 kWh BESS (Kohat), 990 kWp Industrial (Alfalah), 863 kWp Mall (Alfatah), 500 kWp Hybrid (Jameel), 317 kWp Factory (Printing Press), 200 kWp Mill (Rizwan), 190 kWp Mall (Crown), 140 kWp Packaging (Al-Noor), 87 kWp PEL, 902 kWp BESS Hybrid Pre-commissioning (RIU Palace), 800+ kWp & 552 kWp O&M Campaigns (Maldives Resorts).  
 **Core Competency:** Translating site constraints into permitted, constructible electrical designs (SLDs, Cable Schedules, BOQs, Net-Metering/DRRG Applications) and diagnosing field faults (Thermal, I-V, RS-485/Modbus).  
-**Tools (Applied):** PVsyst 7.x (Yield/Shading/3D), HelioScope, AutoCAD Electrical (SLDs/Layouts), Revit MEP, ETAP (LV SC), FLIR Thermal, Solmetric I-V, Modbus Diagnostics.  
+**Tools (Applied):** HelioScope/Helioscope (Yield/Shading/3D), AutoCAD Electrical (SLDs/Layouts), Revit MEP/SketchUp (3D), ETAP (LV SC), FLIR Thermal, Solmetric I-V, Modbus Diagnostics.  
 **Standards (Applied):** IEC 62548/60364-7-712, **DEWA DRRG / DEWA Standards**, **NEPRA Net-Metering 2015/2021**, DIN VDE 0100-712/IEC 62257, IEEE 1547, LOTO/JSA.  
 **Availability:** Immediate | On-site Pakistan | Open to GCC/Maldives rotation.
 
@@ -64,9 +64,9 @@
 
 | Engagement | Verified Technical Scope | Tools / Standards |
 |:---|:---|:---|
-| **Alfalah Industrial — 990 kWp Rooftop (DEWA)** | **Lead Design Engineer:** Complete DEWA DRRG package — AutoCAD Electrical SLDs (LV/MV), Cable Calculations (VD/SC), PVsyst 3D Shading & Yield, NOC Documentation, Authority Submission Pack. | AutoCAD Elec, PVsyst 3D, ETAP, DEWA DRRG |
-| **Al-Noor Packaging — 140 kWp Rooftop (NEPRA)** | **Lead Design Engineer:** Full design package — SLDs, String Layout Optimization, PVsyst Yield, Net-Metering Application (LESCO), BOQ. | PVsyst, AutoCAD Elec, NEPRA Regs |
-| **C&I Rooftop Packages (3 Projects, ~400 kWp, Pakistan)** | PVsyst Yield/Shading, AutoCAD SLDs, Cable Sizing (IEC 60364-4-43), BOQs, NEPRA Net-Metering Packs. | PVsyst, HelioScope, AutoCAD Elec, NEPRA |
+| **Alfalah Industrial — 990 kWp Rooftop (DEWA)** | **Lead Design Engineer:** Complete DEWA DRRG package — AutoCAD Electrical SLDs (LV/MV), 4-pole cascading protection, Bi-directional AC-coupled PCS blocks, Cable Calculations (VD/SC), HelioScope 3D Shading & Yield, NOC Documentation, Authority Submission Pack. | AutoCAD Elec, HelioScope, ETAP, DEWA DRRG |
+| **Al-Noor Packaging — 140 kWp Rooftop (DEWA)** | **Lead Design Engineer:** Full design package — SLDs, String Layout Optimization, HelioScope Yield/Shading, Net-Metering Application, BOQ, O&M Manual, Financial ROI/LCOE, DEWA DRRG-compliant SLD & Wiring Package. | HelioScope, AutoCAD Elec, DEWA DRRG |
+| **C&I Rooftop Packages (3 Projects, ~400 kWp, Pakistan)** | HelioScope Yield/Shading, AutoCAD SLDs, Cable Sizing (IEC 60364-4-43), BOQs, NEPRA Net-Metering Packs. | HelioScope, AutoCAD Elec, NEPRA Regs |
 
 ### DESIGN ENGINEER — SOLUXIA ENERGY  
 **Jan 2025 – Sep 2025** | Rawalpindi, Pakistan
@@ -74,10 +74,10 @@
 
 | Verified Delivery | Technical Detail |
 |:---|:---|
-| **Kohat Tunnel — 1.4 MWp (Lead Design)** | Linear PV design for tunnel structures. PVsyst 3D shading (topography), AutoCAD SLDs (LV/MV), Cable routing in constrained clearance, Earthing & LPS design for linear infrastructure, Structural coordination. |
-| **Printing Press Factory — 317 kWp Rooftop** | Complete design: PVsyst Shading Analysis, SLDs, Cable Schedules, Structural Layout, BOQ, Net-Metering Pack (FESCO). |
-| **Crown Mall — 190 kWp Rooftop** | Design & Documentation: PVsyst Yield, SLDs, Cable Calculations, As-Built Package for handover. |
-| **Carport Naval HQ — 15 kWp (Showcase)** | Structural carport design, 3D modeling (Revit/SketchUp), SLD, Cable sizing, Aesthetic/Functional integration. |
+| **Kohat Tunnel — 1.4 MWp + 300 kW/600 kWh BESS (Lead Design)** | Linear PV design for tunnel infrastructure. HelioScope 3D shading (topography), AutoCAD SLDs (LV/MV), **AC-Coupled BESS Integration** (300 kW/600 kWh), Generation vs Load profiling, Cable routing in constrained clearance, Earthing & LPS design for linear infrastructure, Structural coordination. |
+| **Printing Press Factory — 317 kWp Rooftop** | Complete design: HelioScope Shading Analysis, SLDs, Cable Schedules, Structural Layout, BOQ/BOS, Net-Metering Pack (LESCO). |
+| **Crown Mall — 190 kWp Rooftop** | Design & Documentation: Structural/Mechanical layout maximizing rooftop boundaries, SLDs, Cable Calculations, As-Built Package. |
+| **Carport Naval HQ — 15 kWp (Showcase)** | Structural carport design, 3D modeling (SketchUp), SLD, Cable sizing, Govt parking guidelines compliance (wind load, clearance). |
 | **General Throughput** | 10+ C&I Proposals (50–500 kWp): Feasibility, Equipment Selection (Huawei/Sungrow/SMA/SolarEdge), BOQs. |
 
 ### PROJECT COORDINATOR — BILLSUN PRIVATE LIMITED  
@@ -85,10 +85,10 @@
 
 | Verified Delivery | Technical Detail |
 |:---|:---|
-| **Rizwan Flour Mills — 200 kWp Rooftop + Ground** | **Design Support & Coordination:** Assisted SLD preparation, Cable Schedule, BOQ, Site Survey Coordination, NEPRA Net-Metering Documentation (FESCO). |
-| **Alfatah Prisma Mall — 863.4 kWp Rooftop** | **Design Coordination:** Liaised with design team for SLD review, Cable Calculations (VD/SC), NOC Submission Package, Client Technical Queries. |
-| **PEL (Petroleum Exploration) — 87 kWp Rooftop** | **Design Coordination & Handover:** Structural Layout Review, SLD Verification, As-Built Compilation, Client Handover Documentation. |
-| **Net-Metering Pipeline** | Managed 5+ NEPRA Applications (Doc Prep, Tracker, DISCO Follow-up) — Approvals Secured. |
+| **Rizwan Flour Mills — 200 kWp Rooftop + Ground** | **Design Support & Coordination:** Assisted SLD preparation (HelioScope), Cable Schedule, BOS/BOQ, Site Survey Coordination, NEPRA Net-Metering Documentation (FESCO). |
+| **Alfatah Prisma Mall — 863.4 kWp Rooftop** | **Design Coordination:** Liaised with design team for SLD review (6× Huawei 110KTL), Cable Calculations (VD/SC), NOC Submission Package (Gujranwala), Client Technical Queries. |
+| **PEL (Petroleum Exploration) — 87 kWp Rooftop** | **Design Coordination & Handover:** Structural Layout Review, SLD Verification, Helioscope Yield Report, SketchUp Shadow Illustration (Jan-Dec), As-Built Compilation, Client Handover Documentation. |
+| **Net-Metering Pipeline** | Managed 5+ NEPRA Applications (Doc Prep, Tracker, DISCO Follow-up) — Approvals Secured (FESCO, GEPCO). |
 
 ### PROJECT ENGINEER — K&S SOLAR ENERGY PVT LTD  
 **Nov 2022 – Feb 2024** | Bhakkar / Punjab, Pakistan
@@ -96,10 +96,10 @@
 
 | Verified Delivery | Technical Detail |
 |:---|:---|
-| **Jameel Flour Mills — 500 kWp Ground Hybrid (SMA)** | **Project Engineer / Commissioning Lead:** Site Execution (Structural, DC/AC), Hybrid Commissioning (Sunny Tripower + Sunny Island), Battery SOC Config, Backup Load Segregation, I-V Curve (Solmetric), Insulation (1000V), Anti-Islanding, Grid Export Limitation, NEPRA Net-Metering Approval (MEPCO). |
+| **Jameel Flour Mills — 500 kWp Ground Hybrid (SMA)** | **Project Engineer / Commissioning Lead:** Site Execution (Structural, DC/AC), Hybrid Commissioning (Sunny Tripower + Sunny Island), Battery SOC Config, Backup Load Segregation, I-V Curve (Solmetric), Insulation (1000V), Anti-Islanding, Grid Export Limitation, NEPRA Net-Metering Approval (MEPCO). 3D SketchUp facility integration. |
 | **Portfolio** | 15–20 Projects (Resi 5–20 kWp, Comm 50–100 kWp, Ind 100–500 kWp). Full Lifecycle: Survey → Install → Commission → Handover. |
 
-### ELECTRICAL ENGINEER (Contract) — SWIMSOL GMBH  
+### FIELD ENGINEER (Contract) — SWIMSOL GMBH  
 **Oct 2025 – Dec 2025** | Malé & Outer Atolls, Maldives
 *Short-term field contract (3 visits). **Separation: Attendance policy (2× late). Technical performance satisfactory. Re-hire eligible per HR.***
 
@@ -117,18 +117,18 @@
 
 ## VERIFIED PROJECT ANCHORS (PORTFOLIO: github.com/usamarafique008-hue/usama-solar-portfolio)
 <table class="project-table">
-<thead><tr><th>Project</th><th>Role</th><th>Scale</th><th>Employer</th><th>Key Artifacts</th></tr></thead>
+<thead><tr><th>Project</th><th>Role</th><th>Scale</th><th>Employer</th><th>Key Artifacts in Repo</th></tr></thead>
 <tbody>
-<tr><td>Kohat Tunnel</td><td>Design Engineer</td><td>1.4 MWp</td><td>Soluxia</td><td>SLD, Tunnel Clearance Calc, Earthing/LPS</td></tr>
-<tr><td>Alfalah Industrial</td><td>Design Engineer (Freelance)</td><td>990 kWp</td><td>Independent</td><td>DEWA SLD Package, PVsyst 3D, DRRG Compliance</td></tr>
-<tr><td>Alfatah Prisma Mall</td><td>Proj. Coordinator (Design)</td><td>863.4 kWp</td><td>Billsun</td><td>SLD, Cable Calc (VD/SC), NOC Package</td></tr>
-<tr><td>Jameel Flour Mills</td><td>Proj. Eng./Commissioning</td><td>500 kWp Hybrid</td><td>K&S Solar</td><td>Hybrid SLD, Commissioning Checklist, I-V Curves</td></tr>
-<tr><td>Printing Press Factory</td><td>Design Engineer</td><td>317 kWp</td><td>Soluxia</td><td>SLD, PVsyst Shading, Cable Schedule/BOQ</td></tr>
-<tr><td>Rizwan Flour Mills</td><td>Proj. Coordinator (Design)</td><td>200 kWp</td><td>Billsun</td><td>SLD, PVsyst Report, BOQ/Cable Schedule</td></tr>
-<tr><td>Crown Mall</td><td>Design Engineer</td><td>190 kWp</td><td>Soluxia</td><td>SLD, PVsyst Yield, As-Builts</td></tr>
-<tr><td>Al-Noor Packaging</td><td>Design Engineer (Freelance)</td><td>140 kWp</td><td>Independent</td><td>SLD, String Layout, Net-Metering App</td></tr>
-<tr><td>PEL</td><td>Proj. Coordinator (Design)</td><td>87 kWp</td><td>Billsun</td><td>SLD, Structural Layout, Handover Docs</td></tr>
-<tr><td>Carport Naval HQ</td><td>Design Engineer</td><td>15 kWp</td><td>Soluxia</td><td>SLD, Structural Design, 3D Renders (Portfolio Only)</td></tr>
+<tr><td>Kohat Tunnel</td><td>Design Engineer</td><td>1.4 MWp + 300kW/600kWh BESS</td><td>Soluxia</td><td>SLD/Wiring (MV+BESS), HelioScope Production, Gen vs Load, DWG Source</td></tr>
+<tr><td>Alfalah Industrial</td><td>Design Engineer (Freelance)</td><td>990 kWp</td><td>Independent</td><td>Wiring Diagram (Bi-Dir AC-Coupled), DWG Source</td></tr>
+<tr><td>Alfatah Prisma Mall</td><td>Proj. Coordinator (Design)</td><td>863.4 kWp</td><td>Billsun</td><td>SLD/Wiring (6× Huawei), Structural Overview, DWG Source</td></tr>
+<tr><td>Jameel Flour Mills</td><td>Proj. Eng./Commissioning</td><td>500 kWp Hybrid (SMA)</td><td>K&S Solar</td><td>Sizing/Wiring/SLD/3D, DWG Source, SketchUp Env</td></tr>
+<tr><td>Printing Press Factory</td><td>Design Engineer</td><td>317 kWp</td><td>Soluxia</td><td>Structural/Mechanical Design, BOS/BOQ</td></tr>
+<tr><td>Rizwan Flour Mills</td><td>Proj. Coordinator (Design)</td><td>200 kWp</td><td>Billsun</td><td>SLD, Helioscope Report, Structural Design, BOS/BOQ</td></tr>
+<tr><td>Crown Mall</td><td>Design Engineer</td><td>190 kWp</td><td>Soluxia</td><td>Structural/Mechanical Design</td></tr>
+<tr><td>Al-Noor Packaging</td><td>Design Engineer (Freelance)</td><td>140 kWp</td><td>Independent</td><td>Master Report, BOS/BOQ, O&M Manual, ROI/LCOE, HelioScope, SLD Package, Satellite Layout</td></tr>
+<tr><td>PEL</td><td>Proj. Coordinator (Design)</td><td>87 kWp</td><td>Billsun</td><td>SLD/Wiring, Helioscope Yield, Shadow Illustration, Structural Design, DWG Source</td></tr>
+<tr><td>Carport Naval HQ</td><td>Design Engineer</td><td>15 kWp</td><td>Soluxia</td><td>20kW/15kW Proposals, Structural Design, Govt Guidelines</td></tr>
 <tr><td>RIU Palace (Maldives)</td><td>Field Engineer</td><td>902 kWp + 1.2 MWh BESS</td><td>Swimsol</td><td>Pre-Comm Log, BESS Voltage Logs, Comms Report</td></tr>
 <tr><td>Four Seasons Landaa</td><td>O&M Engineer</td><td>552.95 kWp</td><td>Swimsol</td><td>FLIR Thermal Report, I-V Analysis (132 Str), Defect Register</td></tr>
 <tr><td>Mövenpick Resort</td><td>Comms Fault Lead</td><td>800+ kWp</td><td>Swimsol</td><td>Corrected As-Built SLD, RS-485 Fault Analysis, Comms Log</td></tr>
@@ -139,21 +139,21 @@
 <table class="skill-table">
 <thead><tr><th>Domain</th><th>Tool / Standard</th><th>Level</th><th>Verified Evidence Context</th></tr></thead>
 <tbody>
-<tr><td rowspan="3">PV Design & Yield</td><td>PVsyst 7.x (3D Shading, Loss Diag)</td><td style="text-align:center">Advanced</td><td>4.5 MWp+ Designs (Kohat 1.4MW, Alfalah 990k, Jameel 500k, Press 317k, Crown 190k, Rizwan 200k, Al-Noor 140k, PEL 87k)</td></tr>
-<tr><td>HelioScope (Layout & Yield)</td><td style="text-align:center">Intermediate</td><td>Prelim Layouts & Proposals (Alfalah, Crown Mall)</td></tr>
+<tr><td rowspan="3">PV Design & Yield</td><td>HelioScope / Helioscope (3D Shading, Yield)</td><td style="text-align:center">Advanced</td><td>4.5 MWp+ Designs (Kohat 1.4MW, Alfalah 990k, Jameel 500k, Press 317k, Crown 190k, Rizwan 200k, Al-Noor 140k, PEL 87k)</td></tr>
+<tr><td>PVsyst</td><td style="text-align:center">Familiar</td><td>Not primary in past workflows (Billsun/Soluxia/K&S used HelioScope)</td></tr>
 <tr><td>String/MPPT Voltage Calculation</td><td style="text-align:center">Advanced</td><td>Manual Verification for 25+ Projects</td></tr>
-<tr><td rowspan="4">Electrical Design & CAD</td><td>AutoCAD Electrical / LT (SLD, Layout)</td><td style="text-align:center">Advanced (Prod)</td><td>200+ SLDs/Layouts (Solar DEWA/NEPRA + Building Services)</td></tr>
-<tr><td>Revit MEP / SketchUp (3D Coord)</td><td style="text-align:center">Intermediate</td><td>Structural Mounting, Shading Scenes for PVsyst</td></tr>
+<tr><td rowspan="4">Electrical Design & CAD</td><td>AutoCAD Electrical / LT (SLD, Layout)</td><td style="text-align:center">Advanced (Prod)</td><td>200+ SLDs/Layouts (Solar DEWA/NEPRA + Building Services) — DWG Sources in Repo</td></tr>
+<tr><td>Revit MEP / SketchUp (3D Coord)</td><td style="text-align:center">Intermediate</td><td>Structural Mounting, Shading Scenes, Shadow Studies (Kohat, Carport, PEL, Jameel)</td></tr>
 <tr><td>Cable Sizing (IEC 60364 / DEWA Std)</td><td style="text-align:center">Advanced</td><td>DC/AC Sizing, VD <1.5%, Derating, SC Withstand (All Projects)</td></tr>
-<tr><td>LV Protection Coord. (MCCB/ACB/SPD)</td><td style="text-align:center">Intermediate</td><td>Discrimination Tables (1.4 MWp MV, 990 kWp LV), IEC 60947, DEWA Prot. Reqs</td></tr>
-<tr><td rowspan="2">BESS / Hybrid</td><td>Architecture & Sizing (AC/DC Coupled)</td><td style="text-align:center">Intermediate</td><td>Jameel (SMA Sunny Island), RIU (1.2 MWh Field Support), TU Delft Cert</td></tr>
-<tr><td>Commissioning Support (PCS/BMS)</td><td style="text-align:center">Intermediate</td><td>BESS String Balancing, PCS Modbus Mapping, SOC Cal Witness (RIU)</td></tr>
+<tr><td>LV/MV Protection Coord. (MCCB/ACB/SPD)</td><td style="text-align:center">Intermediate</td><td>Discrimination Tables (1.4 MWp MV, 990 kWp LV 4-pole cascading), IEC 60947, DEWA Prot. Reqs</td></tr>
+<tr><td rowspan="2">BESS / Hybrid</td><td>SMA Sunny Island Architecture</td><td style="text-align:center">Intermediate</td><td>Jameel 500kWp: AC-coupled, backup load segregation</td></tr>
+<tr><td>AC-Coupled BESS Integration</td><td style="text-align:center">Intermediate</td><td>Kohat Tunnel: 300 kW / 600 kWh BESS loop, Gen vs Load profiling, RIU 1.2 MWh Field Support</td></tr>
 <tr><td rowspan="4">Comms & Diagnostics</td><td>Modbus RTU/TCP (SunSpec)</td><td style="text-align:center">Advanced (Fault)</td><td>Mövenpick: Bus Redesign/Termination. RIU: PCS/BMS/SCADA Mapping</td></tr>
 <tr><td>FLIR Thermal Imaging (Anomaly Class)</td><td style="text-align:center">Advanced</td><td>Four Seasons: Module/Combiner/Inv Scanning, Diode/Hotspot/Connector ID</td></tr>
 <tr><td>I-V Curve Tracing (Solmetric PVA)</td><td style="text-align:center">Advanced</td><td>Jameel/Four Seasons/K&S: 200+ Strings, Mismatch/Degradation Analysis</td></tr>
 <tr><td>Insulation/Continuity/Earth (500/1000V)</td><td style="text-align:center">Advanced</td><td>Routine Commissioning & O&M (Megger, Clamp, Earth Tester)</td></tr>
-<tr><td rowspan="2">Regulatory (PK/UAE)</td><td>NEPRA Net-Metering 2015/2021</td><td style="text-align:center">Expert (Exec)</td><td>15+ Approvals (LESCO, FESCO, MEPCO, IESCO). Full Doc Pack Prep.</td></tr>
-<tr><td><b>DEWA DRRG & Standards</b></td><td style="text-align:center"><b>Advanced</b></td><td><b>Alfalah 990kW + Alfatah 863kW Design Packages (SLD, Calcs, NOC)</b></td></tr>
+<tr><td rowspan="2">Regulatory (PK/UAE)</td><td>NEPRA Net-Metering 2015/2021</td><td style="text-align:center">Expert (Exec)</td><td>15+ Approvals (FESCO, LESCO, MEPCO, GEPCO). Full Doc Pack Prep.</td></tr>
+<tr><td><b>DEWA DRRG & Standards</b></td><td style="text-align:center"><b>Advanced</b></td><td><b>Alfalah 990kW + Al-Noor 140kW Design Packages (SLD, Calcs, NOC, 4-pole cascading)</b></td></tr>
 <tr><td rowspan="2">Project Execution</td><td>Site Mgmt (Civil/Elect, Crew 8-12)</td><td style="text-align:center">Advanced</td><td>Structural Framing (Unirac), DC/AC Install QC, Safety (LOTO/JSA)</td></tr>
 <tr><td>BOQ / Procurement Spec</td><td style="text-align:center">Advanced</td><td>Cable (XLPE/PVC/Arm), Conduit, Structures, Protection, Monitoring</td></tr>
 </tbody>
@@ -174,6 +174,6 @@
 - **Notice Period:** **Immediate.**
 
 <div class="footer">
-<strong>Verification Protocol:</strong> All portfolio artifacts redacted for client confidentiality. Originals available for technical interview under NDA. Every file maps 1:1 to Employment History above.<br>
+<strong>Verification Protocol:</strong> All portfolio artifacts redacted for client confidentiality. Originals available for technical interview under NDA. Every file maps 1:1 to Employment History above. Raw DWG sources in `/DWG Files` subdirectories.<br>
 <strong>Maldives Separation Narrative:</strong> Contract ended due to attendance misunderstanding on 3-month contract. Technical deliverables (Comms fault resolution, O&M reporting, BESS pre-commissioning support) documented in portfolio. HR confirmed re-hire eligibility.
 </div>
