@@ -99,7 +99,7 @@
 | **Jameel Flour Mills — 500 kWp Ground Hybrid (SMA)** | **Project Engineer / Commissioning Lead:** Site Execution (Structural, DC/AC), Hybrid Commissioning (Sunny Tripower + Sunny Island), Battery SOC Config, Backup Load Segregation, I-V Curve (Solmetric), Insulation (1000V), Anti-Islanding, Grid Export Limitation, NEPRA Net-Metering Approval (MEPCO). 3D SketchUp facility integration. |
 | **Portfolio** | 15–20 Projects (Resi 5–20 kWp, Comm 50–100 kWp, Ind 100–500 kWp). Full Lifecycle: Survey → Install → Commission → Handover. |
 
-### FIELD ENGINEER (Contract) — SWIMSOL GMBH  
+### ELECTRICAL ENGINEER (Contract) — SWIMSOL GMBH  
 **Oct 2025 – Dec 2025** | Malé & Outer Atolls, Maldives
 *Short-term field contract (3 visits). **Separation: Attendance policy (2× late). Technical performance satisfactory. Re-hire eligible per HR.***
 
