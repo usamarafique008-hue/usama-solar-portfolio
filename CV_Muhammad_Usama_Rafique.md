@@ -3,7 +3,7 @@
   ENGINE: Headless Chromium (Puppeteer) — Supports full CSS Paged Media (@page, break-inside)
   FONTS: Uses system stack (Calibri/DejaVu/Liberation) — Zero external deps.
   TARGET: Strict 2-page output. If 3 pages, reduce body font-size to 9pt.
--->
+
 <style>
   @page { margin: 18mm; size: A4; }
   @media print { .no-print { display: none; } }
@@ -38,7 +38,7 @@
   .skill-table td:nth-child(2) { width: 22%; }
   .skill-table td:nth-child(3) { width: 15%; text-align: center; }
   .compact { margin-top: -4pt; margin-bottom: 2pt; }
-</style>
+</style>-->
 
 # MUHAMMAD USAMA RAFIQUE
 <span class="title">Electrical Engineer — Solar PV Design, Commissioning & O&M Diagnostics | DEWA DRRG & NEPRA Compliant</span>
