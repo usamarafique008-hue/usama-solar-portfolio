@@ -60,7 +60,7 @@
 ---
 
 ## 📜 CREDENTIALS
-- **B.Sc. Electrical Engineering** — NUML Islamabad (2022) | CGPA: [Insert] | FYP: IEEE Published
+- **B.Sc. Electrical Engineering** — NUML Islamabad (2022) | CGPA: 2.82 | FYP: IEEE Published
 - **IEEE Publication** — *Extra-Ocular Muscles for Robotic Eye and Control Design* (PNH Research Journal, 2025)
 - **Battery Management Systems & Pack Design** — TU Delft (edX, Jul 2026)
 - **Solar Project Permitting: Foundations** — European Solar Academy (2026)
