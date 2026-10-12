@@ -2,7 +2,7 @@
 **Electrical Engineer (B.Sc. NUML '22) | IEEE Author | PEC: ELECT/116662**  
 📍 Lahore, Pakistan | 📞 +92 343 0677653 | ✉️ usamarafique008@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/muhammad-usama-rafique](https://linkedin.com/in/muhammad-usama-rafique)  
-📄 **CV:** [PDF Download](https://github.com/usamarafique008-hue/usama-solar-portfolio/raw/main/CV_Muhammad_Usama_Rafique.pdf)
+📄 **CV:** [PDF Download](CV_Muhammad_Usama_Rafique.pdf)
 
 > **Verification Protocol:** All artifacts redacted for commercial confidentiality. Originals available for technical interview under NDA. Every folder maps 1:1 to CV Employment History.
 
@@ -21,20 +21,20 @@
 
 ---
 
-## 📁 PROJECT CATALOG — VERIFIED & MAPPED TO EMPLOYMENT
+## 📁 PROJECT CATALOG — VERIFIED ARTIFACTS
 
-| # | Project | Capacity | Type | Role | Employer | Key Artifacts (Click to View) |
+| # | Project | Capacity | Type | Role | Employer | Artifacts (Click to Open) |
 |:---|:---|:---:|:---|:---|:---|:---|
-| **01** | **Rizwan Flour Mills** | 200 kWp | Rooftop + Ground | Project Coordinator (Design Support) | **Billsun** | [SLD](01_rizwan-flour-mills-200kw-rooftop-ground/SLD_200kw.pdf) • [PVsyst](01_rizwan-flour-mills-200kw-rooftop-ground/PVsyst_Report_200kw.pdf) • [BOQ](01_rizwan-flour-mills-200kw-rooftop-ground/BOQ_Cable_Schedule.xlsx) |
-| **02** | **Alfalah Industrial** | 990 kWp | Rooftop | **Design Engineer (Freelance)** | **Independent** | [SLD](02_alfalah-industrial-990kw-rooftop/SLD_990kw.pdf) • [PVsyst 3D](02_alfalah-industrial-990kw-rooftop/PVsyst_3D_Shading_Report.pdf) • [DEWA DRRG](02_alfalah-industrial-990kw-rooftop/DEWA_DRRG_Compliance_Checklist.pdf) |
-| **03** | **Alfatah Prisma Mall** | 863.4 kWp | Rooftop | Project Coordinator (Design Support) | **Billsun** | [SLD](03_alfatah-prisma-mall-863kw-rooftop/SLD_863kw.pdf) • [Cable Calc](03_alfatah-prisma-mall-863kw-rooftop/Cable_Calc_Voltage_Drop.pdf) • [NOC Pack](03_alfatah-prisma-mall-863kw-rooftop/NOC_Submission_Package.pdf) |
-| **04** | **Al-Noor Packaging** | 140 kWp | Rooftop | **Design Engineer (Freelance)** | **Independent** | [SLD](04_al-noor-packaging-140kwp-rooftop/SLD_140kw.pdf) • [String Layout](04_al-noor-packaging-140kwp-rooftop/String_Layout_Optimization.pdf) • [Net-Metering](04_al-noor-packaging-140kwp-rooftop/Net_Metering_Application.pdf) |
-| **05** | **Carport Naval HQ** | 15 kWp | Carport | Design Engineer | **Soluxia** | [SLD](05_carport-naval-hq-15kw/SLD_15kw.pdf) • [Structural](05_carport-naval-hq-15kw/Structural_Carport_Design.pdf) • [3D Renders](05_carport-naval-hq-15kw/3D_Render_Views.pdf) |
-| **06** | **Crown Mall** | 190 kWp | Rooftop | Design Engineer | **Soluxia** | [SLD](06_crown-mall-190kw-rooftop/SLD_190kw.pdf) • [PVsyst](06_crown-mall-190kw-rooftop/PVsyst_Yield_Report.pdf) • [As-Builts](06_crown-mall-190kw-rooftop/As_Built_Package.pdf) |
-| **07** | **Jameel Flour Mills** | **500 kWp** | Ground Hybrid (SMA) | **Project Engineer / Commissioning Lead** | **K&S Solar** | [Hybrid SLD](07_jameel-flour-mills-500kw-ground/Hybrid_SLD_500kw.pdf) • [Commissioning](07_jameel-flour-mills-500kw-ground/Commissioning_Checklist_Signed.pdf) • [I-V Curves](07_jameel-flour-mills-500kw-ground/IV_Curve_Summary_All_Strings.csv) |
-| **08** | **Kohat Tunnel** | **1.4 MWp** | Linear/Structural | Design Engineer | **Soluxia** | [SLD](08_kohat-tunnel-1.4mw/SLD_1.4mw.pdf) • [Clearance Calc](08_kohat-tunnel-1.4mw/Tunnel_Clearance_Calc.pdf) • [Earthing/LPS](08_kohat-tunnel-1.4mw/Earthing_LPS_Design.pdf) |
-| **09** | **PEL (Petroleum Exploration)** | 87 kWp | Rooftop | Project Coordinator (Design Support) | **Billsun** | [SLD](09_pel-87kw-rooftop/SLD_87kw.pdf) • [Structural](09_pel-87kw-rooftop/Structural_Layout.pdf) • [Handover](09_pel-87kw-rooftop/Handover_Docs.pdf) |
-| **10** | **Printing Press Factory** | 317 kWp | Rooftop | Design Engineer | **Soluxia** | [SLD](10_printing-press-317kw-rooftop/SLD_317kw.pdf) • [Shading](10_printing-press-317kw-rooftop/PVsyst_Shading_Analysis.pdf) • [BOQ](10_printing-press-317kw-rooftop/Cable_Schedule_BOQ.xlsx) |
+| **01** | **Rizwan Flour Mills** | 200 kWp | Rooftop + Ground | Project Coordinator (Design Support) | **Billsun** | [SLD](01_200kW%20Rizwan%20Flour%20Mills-Rooftop%2BGround/SLD_Rizwan_Mills_200kWp.pdf) • [PVsyst Yield](01_200kW%20Rizwan%20Flour%20Mills-Rooftop%2BGround/PVsyst_Yield_Report_Rizwan_200kWp.pdf) • [BOQ & Cable Schedule](01_200kW%20Rizwan%20Flour%20Mills-Rooftop%2BGround/BOQ_Cable_Schedule_Rizwan_200kWp.xlsx) |
+| **02** | **Alfalah Industrial** | 990 kWp | Rooftop | **Design Engineer (Freelance)** | **Independent** | [SLD (Bi-Directional AC-Coupled)](02_ALFALAH%20INDUSTRIAL%20990kW%20Rooftop/SLD_Alfalah_Industrial_990kW.pdf) • [PVsyst 3D Shading](02_ALFALAH%20INDUSTRIAL%20990kW%20Rooftop/PVsyst_3D_Shading_Report_990kW.pdf) • [DEWA DRRG Compliance](02_ALFALAH%20INDUSTRIAL%20990kW%20Rooftop/DEWA_DRRG_Compliance_Checklist.pdf) |
+| **03** | **Alfatah Prisma Mall** | 863.4 kWp | Rooftop | Project Coordinator (Design Support) | **Billsun** | [SLD (6-Inv Huawei)](03_ALFATAH%20PRISMA%20MALL%20863.4%20kW%20Rooftop/SLD_Alfatah_Prisma_Mall_863kw.pdf) • [Cable Calc VD/SC](03_ALFATAH%20PRISMA%20MALL%20863.4%20kW%20Rooftop/Cable_Calc_Voltage_Drop_Prisma_Mall.pdf) • [NOC Submission Gujranwala](03_ALFATAH%20PRISMA%20MALL%20863.4%20kW%20Rooftop/NOC_Submission_Package_Gujranwala.pdf) |
+| **04** | **Al-Noor Packaging** | 140 kWp | Rooftop | **Design Engineer (Freelance)** | **Independent** | [SLD (Net-Metering)](04_Al-Noor%20Packaging%20LLC%20140kWp%20Rooftop/SLD_AlNoor_Packaging_140kWp.pdf) • [String Layout MPPT Map](04_Al-Noor%20Packaging%20LLC%20140kWp%20Rooftop/String_Layout_Optimization_AlNoor.pdf) • [Net-Metering App LESCO](04_Al-Noor%20Packaging%20LLC%20140kWp%20Rooftop/Net_Metering_Application_LESCO.pdf) |
+| **05** | **Carport Naval HQ** | 15 kWp | Carport | Design Engineer | **Soluxia** | [SLD](05_Carport%20Naval%20Headquarters%2015kW/SLD_Naval_HQ_Carport_15kW.pdf) • [Structural Steel Design](05_Carport%20Naval%20Headquarters%2015kW/Structural_Carport_Design_Steel.pdf) • [3D Renders](05_Carport%20Naval%20Headquarters%2015kW/3D_Render_Views_Naval_HQ.pdf) |
+| **06** | **Crown Mall** | 190 kWp | Rooftop | Design Engineer | **Soluxia** | [SLD](06_Crown%20Mall%20190kW%20System/SLD_Crown_Mall_190kWp.pdf) • [PVsyst Yield](06_Crown%20Mall%20190kW%20System/PVsyst_Yield_Report_Crown_Mall.pdf) • [As-Built Handover](06_Crown%20Mall%20190kW%20System/As_Built_Package_Handover.pdf) |
+| **07** | **Jameel Flour Mills** | **500 kWp** | Ground Hybrid (SMA) | **Project Engineer / Commissioning Lead** | **K&S Solar** | [Hybrid SLD (SMA)](07_JAMEEL%20FLOUR%20MILLS%20500kW%20Ground%20Mount/Hybrid_SLD_Jameel_Mills_500kw.pdf) • [Commissioning Checklist](07_JAMEEL%20FLOUR%20MILLS%20500kW%20Ground%20Mount/Commissioning_Checklist_Signed.pdf) • [I-V Curve Logs](07_JAMEEL%20FLOUR%20MILLS%20500kW%20Ground%20Mount/IV_Curve_Summary_All_Strings.csv) |
+| **08** | **Kohat Tunnel** | **1.4 MWp** | Linear/Structural | Design Engineer | **Soluxia** | [SLD (MV Coupling)](08_Kohat%20Tunnel%201.4MW/SLD_Kohat_Tunnel_1.4MWp.pdf) • [Tunnel Clearance Profiles](08_Kohat%20Tunnel%201.4MW/Tunnel_Clearance_Calc_Profiles.pdf) • [Earthing & LPS](08_Kohat%20Tunnel%201.4MW/Earthing_LPS_Design_Tunnel.pdf) |
+| **09** | **PEL (Petroleum Exploration)** | 87 kWp | Rooftop | Project Coordinator (Design Support) | **Billsun** | [SLD (Dual Huawei)](09_Petrolium%20Exploration%20Limited%2087kW%20Rooftop/SLD_PEL_Industrial_Rooftop_87kW.pdf) • [Structural Layout](09_Petrolium%20Exploration%20Limited%2087kW%20Rooftop/Structural_Layout_Rooftop_PEL.pdf) • [Handover Docs](09_Petrolium%20Exploration%20Limited%2087kW%20Rooftop/Handover_Docs_PEL_Signed.pdf) |
+| **10** | **Printing Press Factory** | 317 kWp | Rooftop | Design Engineer | **Soluxia** | [SLD (Harmonic Isolation)](10_Printing%20Press%20Factory%20Design%20317kW/SLD_Printing_Press_317kW.pdf) • [PVsyst Shading Analysis](10_Printing%20Press%20Factory%20Design%20317kW/PVsyst_Shading_Analysis_Press_Factory.pdf) • [Cable Schedule BOQ](10_Printing%20Press%20Factory%20Design%20317kW/Cable_Schedule_BOQ_Press_Factory.xlsx) |
 
 ---
 
@@ -42,7 +42,7 @@
 
 | Domain | Tool / Standard | Proficiency | Portfolio Evidence |
 |:---|:---|:---:|:---|
-| **PV Design & Yield** | PVsyst 7.x (3D Shading, Loss Diagram) | **Advanced** | All 10 projects — Alfalah 990kW 3D, Kohat 1.4MW linear shading |
+| **PV Design & Yield** | PVsyst 7.x (3D Shading, Loss Diagram) | **Advanced** | All 10 projects — Alfalah 990kW 3D, Kohat 1.4MW linear shading, Printing Press inter-row |
 | | HelioScope | **Intermediate** | Preliminary layouts (Alfalah, Crown Mall) |
 | | String/MPPT Voltage Calculation | **Advanced** | Manual verification on all projects |
 | **Electrical Design** | AutoCAD Electrical (SLD, Layout, BOQ) | **Advanced (Production)** | 200+ SLDs across portfolio (DEWA, NEPRA, IEC) |
