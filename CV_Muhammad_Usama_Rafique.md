@@ -162,7 +162,7 @@
 ## EDUCATION & CREDENTIALS
 | Credential | Institution | Year | Verified Detail |
 |:---|:---|:---|:---|
-| B.Sc. Electrical Engineering | NUML, Islamabad | 2022 | CGPA: [2.82] | FYP: IEEE Published (Robotics Control) |
+| B.E. Electrical Engineering | NUML, Islamabad | 2022 | CGPA: 2.82 | FYP: IEEE Published (Robotics Control) |
 | IEEE Publication | PNH Research Journal | 2025 | *Extra-Ocular Muscles for Robotic Eye and Control Design* — MATLAB/Simulink Real-Time |
 | Battery Management Systems | TU Delft (edX) | Jul 2026 | Cell Balancing, Thermal, SOC/SOH, Safety (IEC 62619) — **Cert Verified** |
 | Solar Project Permitting | European Solar Academy | 2026 | EU Regulatory Frameworks, Risk Mitigation — **Cert Verified** |
